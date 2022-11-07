@@ -27,8 +27,6 @@ Olhando para o enunciado, a primeira coisa que devemos fazer é quebrá-lo em pe
   - Mostrar controle que permita ao jogador reiniciar o jogo.
 9. Quando reiniciar, tenha certeza de resetar todas as variáveis e a interface do jogo, então volte para o passo 1.
 
-
-
 # Referência
 
 https://developer.mozilla.org/pt-BR/docs/Learn/JavaScript/First_steps/A_first_splash
